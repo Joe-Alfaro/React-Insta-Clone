@@ -4,7 +4,7 @@ import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import {faHeart, faCompass, faUser} from '@fortawesome/free-regular-svg-icons';
 import {faInstagram} from '@fortawesome/free-brands-svg-icons';
 
-const SearchBar = props => {
+const SearchBar = () => {
   return (
     <div className="search-bar">
       <div className="brand">
